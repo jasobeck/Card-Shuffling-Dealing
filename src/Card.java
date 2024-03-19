@@ -1,3 +1,8 @@
+// Jane Sobeck
+// 1/20/2024
+// CIS 145 Lab 2
+// The purpose of this Java file is to be a Card class for creating card objects
+
 //Card class represents a playing card
 public class Card {
     private final String face, suit;

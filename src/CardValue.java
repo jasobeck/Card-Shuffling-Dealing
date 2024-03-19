@@ -1,3 +1,8 @@
+// Jane Sobeck
+// 1/20/2024
+// CS 145 Lab 2
+//The purpose of this java file is to be an enum representing card value and name
+
 //An enum to allow retreiving of the cards value based off of the name of the face
 
 public enum CardValue {

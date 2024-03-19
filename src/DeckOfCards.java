@@ -1,3 +1,8 @@
+//Jane Sobeck
+//1/20/2024
+//CS 145 Lab 2
+// The purpose of this java file is to have an object representing a deck of cards,
+// and performing functions to that deck of cards
 
 //DeckOfCards class represents a deck of playing cards
 import java.security.SecureRandom;
